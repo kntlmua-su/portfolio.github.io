@@ -1,7 +1,7 @@
 export const personalData = {
   name: "Fahmi Aditya",
   profile: '/profile.png',
-  designation: "Software Developer,Fotografer,VIDEO Editing",
+  designation: "Software Developer,Fotografer,VidWizard",
   description: "My name is Fahmi Aditya. I am a dedicated multimedia student passionate about digital creation and visual storytelling. I am currently studying at SMKN 1 SOOKO, where I explore various aspects of multimedia technology. I love to learn and adapt to new creative tools and technologies in the digital world. My interests span across graphic design, video editing, photography, and web development. I am eager to transform ideas into engaging visual content and am enthusiastic about pursuing opportunities in the multimedia industry. I am open to collaborations and projects that align with my creative skills and multimedia expertise..",
   email: 'fahmiadit33@gmail.com',
   phone: '(+62)81333619444',
