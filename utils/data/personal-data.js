@@ -8,7 +8,7 @@ export const personalData = {
   address: 'Earth',
   github: 'https://github.com/kntlmua-su',
   facebook: 'https://www.facebook.com/fahmiaditya99/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
+  linkedIn: 'https://www.linkedin.com/in/fahmi-aditya%E3%82%B7-076478338/',
   twitter: 'https://twitter.com/said7388',
   stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
   leetcode: "https://leetcode.com/said3812/",
