@@ -2,7 +2,7 @@ export const personalData = {
   name: "Fahmi Aditya",
   profile: '/profile.png',
   designation: "Software Developer,Fotografer,VIDEO Editing",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+  description: "My name is Fahmi Aditya. I am a dedicated multimedia student passionate about digital creation and visual storytelling. I am currently studying at SMKN 1 SOOKO, where I explore various aspects of multimedia technology. I love to learn and adapt to new creative tools and technologies in the digital world. My interests span across graphic design, video editing, photography, and web development. I am eager to transform ideas into engaging visual content and am enthusiastic about pursuing opportunities in the multimedia industry. I am open to collaborations and projects that align with my creative skills and multimedia expertise..",
   email: 'fahmiadit33@gmail.com',
   phone: '(+62)81333619444',
   address: 'Earth',
