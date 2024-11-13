@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Portfolio of Fahmi Aditya",
   description:
-    "This is the portfolio of Abu Said. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "My name is Fahmi Aditya. I am a dedicated multimedia student passionate about digital creation and visual storytelling. I am currently studying at SMKN 1 SOOKO, where I explore various aspects of multimedia technology. I love to learn and adapt to new creative tools and technologies in the digital world. My interests span across graphic design, video editing, photography, and web development. I am eager to transform ideas into engaging visual content and am enthusiastic about pursuing opportunities in the multimedia industry. I am open to collaborations and projects that align with my creative skills and multimedia expertise.",
 };
 
 export default function RootLayout({ children }) {
